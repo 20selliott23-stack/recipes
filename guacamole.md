@@ -5,4 +5,4 @@
 * salt
 
 ## Instructions
-put one line in at same time
+* Make sure to peal the avacado.
